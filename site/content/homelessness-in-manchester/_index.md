@@ -3,13 +3,15 @@ title: Homelessness in Manchester
 hero:
   image: /assets/images/streetwise-opera.jpg
 about:
+  heading: Homelessness in Context
+
   body: >-
     Homelessness is complex and anyone who is currently without a home should be viewed as
     an individual - not as part of a homogenous ‘homeless’ group. Lots of different people find
     themselves in lots of different situations of homelessness for lots of different reasons.
 
     
-    > ## *Rough sleeping represents the smallest segment of the homeless population.*
+    > Rough sleeping represents the smallest segment of the homeless population.
 
 
     Often people think about people who are street homelessness or rough sleeping, but this
@@ -24,12 +26,16 @@ about:
     substance misuse, and experiences of ACTs (acute-childhood trauma).
 
 
-    > ## *There are often several compounding factors which lead to someone being in a situation of homelessness.*
+    ## Causes of Homelessness
 
 
     The main cited reason for why someone becomes homeless in the UK is ‘relationship
     breakdown’, in Manchester it is ‘eviction from private-tenancy’. In reality, there are often several compounding factors which lead to someone being in a situation of homelessness.
     For example; abuse, debt, and separation from their social support networks.
+
+
+    > Homelessness has increased across the whole of the UK in the last ten years.
+
 
     Homelessness has increased across the whole of the UK in the last ten years and there are
     many external pressures which are influencing this:
@@ -44,6 +50,7 @@ about:
     * Section 106 (affordable housing requirements) being negotiated out of privately
 
     * Building houses but not building neighborhoods &amp; social infrastructure
+
     * People not being part of a community or other social support networks
 
     * Letting agents who discriminate against ‘DSS’ tenants or young people
@@ -65,14 +72,13 @@ about:
 
     If you are homeless (or at risk of becoming homeless) you have to present at your local
     authority who will decided if there is a ‘statutory duty’ for them to support you.
-
-  heading: Homelessness Context
 howToHelp:
   body: >-
     There are lots of ways you can contribute to our aim of ending homelessness. The
     organisations in our network post what they need on Street Support – have a look on Give
-    Help and see if there is anything you can respond to. There are also some bigger,
-    reoccurring, or more urgent needs which you might be able to help with:
+    Help and see if there is anything you can respond to. 
+    
+    There are also some bigger, reoccurring, or more urgent needs which you might be able to help with. If you can help, please contact [dee@streetsupport.net](mailto:dee@streetsupport.net).
 
 
     ## Bigger picture – systems change
