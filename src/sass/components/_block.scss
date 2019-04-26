@@ -244,6 +244,11 @@
     padding: $padding * 2;
     padding-bottom: 0;
     @include cf();
+
+    .article & {
+      padding-left: 15%;
+      padding-right: 15%;
+    }
   }
 
   &--drop-shadow {
