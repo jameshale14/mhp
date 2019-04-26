@@ -107,7 +107,7 @@ whatElse:
 
 
     * [Co-produced City Strategy
-    (2018-2023)](https://drive.google.com/file/d/1N2gW8c1ED3LYAKEkwkKlXzOXIWeAi9D1/view?usp=sharing)
+    (2018-2023)](/homelessness-strategy/)
 
     * [Language and Terminology
     Guideline](https://drive.google.com/file/d/1TQstUhsjFTopKJ4-2RZLYT8YY4py9EUj/view?usp=sharing)

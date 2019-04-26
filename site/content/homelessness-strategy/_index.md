@@ -14,7 +14,7 @@ about:
     businesses.
   heading: Change Through Co-Production
 actionPlans:
-  body: here be action plans!
+  body:
   heading: Action Plans
 strategyCta:
   title: Read the full Strategy document
