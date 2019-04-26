@@ -84,10 +84,10 @@ about:
 howToHelp:
   body: >-
     There are lots of ways you can contribute to our aim of ending homelessness.
-    The organisations in our network post what they need on [Street Support
-    ](https://streetsupport.net/)– have a look on [Give Help
-    ](https://streetsupport.net/give-help/help/)and see if there is anything you
-    can respond to. 
+    The organisations in our network post what they need on [Street
+    Support](https://streetsupport.net/) – have a look on [Give
+    Help](https://streetsupport.net/give-help/help/) and see if there is
+    anything you can respond to. 
 
     There are also some bigger, reoccurring, or more urgent needs which you
     might be able to help with. If you can help, please contact
