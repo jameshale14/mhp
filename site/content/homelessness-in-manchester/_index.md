@@ -3,7 +3,7 @@ title: Homelessness in Manchester
 hero:
   image: /assets/images/streetwise-opera.jpg
 about:
-  heading: Homelessness in Context
+  heading: Homelessness in Manchester
 
   body: >-
     Homelessness is complex and anyone who is currently without a home should be viewed as
@@ -73,6 +73,8 @@ about:
     If you are homeless (or at risk of becoming homeless) you have to present at your local
     authority who will decided if there is a ‘statutory duty’ for them to support you.
 howToHelp:
+  heading: How to help?
+  
   body: >-
     There are lots of ways you can contribute to our aim of ending homelessness. The
     organisations in our network post what they need on Street Support – have a look on Give
@@ -136,6 +138,5 @@ howToHelp:
 
     We have a shared storage facility which needs to stay stocked up with coffee, tea,
     sugar, tinned goods, underwear, and toiletries. Can you donate these items?
-  heading: How to help?
 ---
 
