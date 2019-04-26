@@ -90,11 +90,7 @@ collections:
             {label: "Heading", name: "heading", widget: "string" },
             {label: "Body", name: "body", widget: "markdown" },
           ]}
-          - {label: "Action Plans", name: "actionPlans", widget: "object", fields: [
+          - {label: "How to Help", name: "howToHelp", widget: "object", fields: [
             {label: "Heading", name: "heading", widget: "string" },
             {label: "Body", name: "body", widget: "markdown" },
-          ]}
-          - {label: "Strategy Call To Action", name: "strategyCta", widget: "object", fields: [
-            {label: "Title", name: "title", widget: "string"},
-            {label: "Url", name: "url", widget: "string"}
           ]}
