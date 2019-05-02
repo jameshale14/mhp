@@ -4,20 +4,24 @@ hero:
   image: /assets/images/streetwise-opera.jpg
 about:
   body: >-
-    The Manchester Homelessness strategy was co-produced by members of MHP
-    including people with personal insight into homelessness, people who work
-    for the council and frontline services.
+    The Manchester City Strategy (which you can download below) was co-produced
+    by members of Manchester Homelessness Partnership. This includes people with
+    personal insight into homelessness, people who work for the Council and
+    frontline services. As far as we are aware, this is the first time a city in
+    the UK has developed a strategy in this way.
 
 
-    Each sector has been asked to respond with an action plan to meet this
-    strategy, including the council, health, housing, voluntary sector and
-    businesses.
+    We believe that to end homelessness in all it's forms in Manchester, we have
+    to work together towards a whole city response. We have asked each sector to
+    create an action plan for how they can work to meet the requirements of this
+    strategy. This includes responses from the council, health, housing, the
+    voluntary sector, and businesses.
   heading: Change Through Co-Production
 actionPlans:
-  body:
+  body: To be added shortly.
   heading: Action Plans
 strategyCta:
-  title: Read the full Strategy document
+  title: READ THE FULL STRATEGY HERE
   url: 'https://drive.google.com/file/d/1N2gW8c1ED3LYAKEkwkKlXzOXIWeAi9D1/view'
 ---
 
