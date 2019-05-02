@@ -13,7 +13,7 @@ whatIs:
     The Charter was launched in May 2016. It unites many people with personal
     experience of homelessness with organisations from different sectors, to
     co-produce solutions together. Over 100 people who have personal insight
-    into homelessness have been involved in the Partnership, many of whom
+    into homelessness have been involved in the Partnership so far, many of whom
     co-wrote the Charter.
 
 
@@ -27,7 +27,7 @@ whosInvolved:
     Boaz Trust, Booth Centre, Coffee4Craig, Cornerstones, Centrepoint North,
     DePaul, Greater Together Manchester, Inspiring Change Manchester, Justlife,
     Lifeshare, MASH, Mustard Tree, On the Out, Reach Out to the Community,
-    Shelter, The Men's Room...
+    Shelter, SPIN, The Men's Room...
 
 
     **Statutory:** Department for Work and Pensions, Greater Manchester Combined
@@ -36,10 +36,11 @@ whosInvolved:
     Village Medical Practice, Universities... 
 
 
-    **Business:** Allied London, Bruntwood, CityCo., The Cooperative, Enterprise
-    Holdings, Federation House, Laing O'Rourke, Lendlease, Lloyds Banking Group,
-    McLaren Construction, Minute Works, Network Rail, Octopus Ink,
-    pro-manchester, Space Zero, Uber, Vallance Dental Centre...
+    **Business:** Allied London, Bruntwood, Career Builder, CityCo., The
+    Cooperative, Enterprise Holdings, Federation House, Laing O'Rourke,
+    Lendlease, Lloyds Banking Group, McLaren Construction, Minute Works, Network
+    Rail, Octopus Ink, pro-manchester, Space Zero, Specsavers, Tuner&Townsend,
+    Uber, Vallance Dental Centre...
 
 
     And many more local organisations and dedicated individuals!
@@ -106,8 +107,7 @@ whatElse:
     use to you:
 
 
-    * [Co-produced City Strategy
-    (2018-2023)](/homelessness-strategy/)
+    * [Co-produced City Strategy (2018-2023)](/homelessness-strategy/)
 
     * [Language and Terminology
     Guideline](https://drive.google.com/file/d/1TQstUhsjFTopKJ4-2RZLYT8YY4py9EUj/view?usp=sharing)
