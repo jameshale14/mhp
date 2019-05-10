@@ -36,9 +36,9 @@ whosInvolved:
     Village Medical Practice, Universities... 
 
 
-    **Business:** Allied London, Barclays, Bruntwood, Business In The Community,
-    Career Builder, CityCo., The Cooperative, Enterprise Holdings, Federation
-    House, Laing O'Rourke, Lendlease, Lloyds Banking Group, McLaren
+    **Business:** Allied London, Barclays, Bruntwood, Business In The Community
+    (BITC), Career Builder, CityCo., The Cooperative, Enterprise Holdings,
+    Federation House, Laing O'Rourke, Lendlease, Lloyds Banking Group, McLaren
     Construction, Minute Works, Network Rail, Octopus Ink, pro-manchester, Space
     Zero, Specsavers, Tuner&Townsend, Uber, Vallance Dental Centre...
 
