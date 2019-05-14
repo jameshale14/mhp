@@ -24,10 +24,10 @@ whatIs:
 whosInvolved:
   body: >-
     **Charity & voluntary:** Albert Kennedy Trust, Barnabus, Big Change MCR,
-    Boaz Trust, Booth Centre, Coffee4Craig, Cornerstones, Centrepoint North,
-    DePaul, Greater Together Manchester, Inspiring Change Manchester, Justlife,
-    Lifeshare, MASH, Mustard Tree, On the Out, Reach Out to the Community,
-    Shelter, SPIN, The Men's Room...
+    Boaz Trust, Booth Centre, Business in the Community (BITC), Coffee4Craig,
+    Cornerstones, Centrepoint North, DePaul, Greater Together Manchester,
+    Inspiring Change Manchester, Justlife, Lifeshare, MASH, Mustard Tree, On the
+    Out, Reach Out to the Community, Shelter, SPIN, The Men's Room...
 
 
     **Statutory:** Department for Work and Pensions, Greater Manchester Combined
@@ -36,11 +36,11 @@ whosInvolved:
     Village Medical Practice, Universities... 
 
 
-    **Business:** Allied London, Barclays, Bruntwood, Business In The Community
-    (BITC), Career Builder, CityCo., The Cooperative, Enterprise Holdings,
-    Federation House, Laing O'Rourke, Lendlease, Lloyds Banking Group, McLaren
-    Construction, Minute Works, Network Rail, Octopus Ink, pro-manchester, Space
-    Zero, Specsavers, Tuner&Townsend, Uber, Vallance Dental Centre...
+    **Business:** Allied London, Barclays, Bruntwood, Career Builder, CityCo.,
+    The Cooperative, Enterprise Holdings, Federation House, Laing O'Rourke,
+    Lendlease, Lloyds Banking Group, McLaren Construction, Minute Works, Network
+    Rail, Octopus Ink, pro-manchester, Space Zero, Specsavers, Tuner&Townsend,
+    Uber, Vallance Dental Centre...
 
 
     And many more local organisations and dedicated individuals!
@@ -113,7 +113,7 @@ whatElse:
     Guideline](https://drive.google.com/file/d/1TQstUhsjFTopKJ4-2RZLYT8YY4py9EUj/view?usp=sharing)
 
     * ['Storefront engagement' - Guide for
-    Businesses](https://drive.google.com/open?id=1313AQfdIfErrS4yw19ovjINoFUl9otG6)
+    Businesses](https://drive.google.com/file/d/1313AQfdIfErrS4yw19ovjINoFUl9otG6/view)
 
     * [Learnings from the MHP
     report](https://drive.google.com/file/d/1ULsfTOathk8onEKa84lfKZn-2yQm_MCF/view?usp=sharing)
