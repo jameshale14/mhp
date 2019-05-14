@@ -112,8 +112,8 @@ whatElse:
     * [Language and Terminology
     Guideline](https://drive.google.com/file/d/1TQstUhsjFTopKJ4-2RZLYT8YY4py9EUj/view?usp=sharing)
 
-    * ['Storefront engagement' Guide for
-    Businesses](https://drive.google.com/file/d/0B6iUM9jFzvw5ckZkZkNCcGtrajBDZmhOeXlwQ01QMFdpcXRj/view)
+    * ['Storefront engagement' - Guide for
+    Businesses](https://drive.google.com/open?id=1313AQfdIfErrS4yw19ovjINoFUl9otG6)
 
     * [Learnings from the MHP
     report](https://drive.google.com/file/d/1ULsfTOathk8onEKa84lfKZn-2yQm_MCF/view?usp=sharing)
