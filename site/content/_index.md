@@ -103,7 +103,10 @@ charter:
   heading: 'Manchester Homelessness Charter:'
 partnership:
   strategy: >-
-    Here will be a sentence about strategy and a button
+    Manchester is coming together to tackle all forms of homelessness. Learn more about our strategy here:
+
+  buttonText: Manchester Homelessness Strategy
+  buttonUrl: /homelessness-strategy
   resources: >-
     As a Partnership, we have developed the following materials which may be of
     use to you:
@@ -127,7 +130,6 @@ partnership:
     * [Flyer for How Businesses can get
     Involved](https://drive.google.com/file/d/1Vo1PANC191X08k0WARgbfnuFiYPQkeCa/view)
   heading: Manchester Strategy and Homelessness Context
-  button: Homelessness Strategy
 whatElse:
   body: >-
     There is so much fantastic work happening in our city to try and end

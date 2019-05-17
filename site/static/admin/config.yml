@@ -46,7 +46,8 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Strategy", name: "strategy", widget: "markdown"},
               {label: "Resources", name: "resources", widget: "markdown"},
-              {label: "Button", name: "button", widget: "string"}
+              {label: "Button Text", name: "buttonText", widget: "string"},
+              {label: "Button Link", name: "buttonUrl", widget: "string"}
             ]}
           - {label: "What Else is Happening?", name: "whatElse", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
