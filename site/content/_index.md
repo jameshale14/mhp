@@ -102,20 +102,17 @@ charter:
     that happen!
   heading: 'Manchester Homelessness Charter:'
 partnership:
-  strategy: >-
-    Manchester is coming together to tackle all forms of homelessness. Learn more about our strategy here:
-
   buttonText: Manchester Homelessness Strategy
   buttonUrl: /homelessness-strategy
+  heading: Manchester Strategy and Homelessness Context
   resources: >-
     As a Partnership, we have developed the following materials which may be of
     use to you:
 
-    
+
     * [Homelessness in Context](/homelessness-in-manchester/)
 
-    * [Co-produced City Strategy
-    (2018-2023)](/homelessness-strategy/)
+    * [Co-produced City Strategy (2018-2023)](/homelessness-strategy/)
 
     * [Language and Terminology
     Guideline](https://drive.google.com/file/d/1TQstUhsjFTopKJ4-2RZLYT8YY4py9EUj/view?usp=sharing)
@@ -130,8 +127,10 @@ partnership:
     Groups](https://drive.google.com/file/d/1eFjixAg4bSPa-Fq5BJ0u8cFg2I7Uoidl/view?usp=sharing) 
 
     * [Flyer for How Businesses can get
-    Involved](https://drive.google.com/file/d/1Vo1PANC191X08k0WARgbfnuFiYPQkeCa/view)
-  heading: Manchester Strategy and Homelessness Context
+    involved](https://drive.google.com/file/d/1Vo1PANC191X08k0WARgbfnuFiYPQkeCa/view)
+  strategy: >-
+    Manchester is coming together to tackle all forms of homelessness. Learn
+    more about our strategy here:
 whatElse:
   body: >-
     There is so much fantastic work happening in our city to try and end
