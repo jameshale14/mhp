@@ -1,3 +1,5 @@
-// JS Goes here - ES6 supported
+import nav from "./js/nav";
+
+nav.init();
 
 import "./css/main.css";

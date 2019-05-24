@@ -1,3 +1,30 @@
-<header>
-  <a class="sr-only" href="#main">Skip to main content</a>
+<header class="site-header">
+  <div class="container">
+    <a class="sr-only" href="#main">Skip to main content</a>
+    <a class="site-header__masthead" href="/">
+      <img src="/assets/images/mhp-logo.png" alt="Manchester Homelessness Partnership logo" class="site-header__logo">
+      <h1 class="site-header__masthead-title">Manchester Homelessness Partnership</h1>
+    </a>
+  </div>
+
+  <nav class="nav">
+    <a href="#" data-targetnavlist="#main-nav-list" data-targetmaincont="#main" class="js-nav-toggle nav__toggle" aria-label="Toggle Navigation">
+      <i class="icon-bar"></i>
+      <i class="icon-bar icon-bar-short"></i>
+      <i class="icon-bar"></i>
+    </a>
+    <div class="container">
+      <ul id="main-nav-list" class="nav__list">
+        {{ $currentPage := . }}
+        {{ range sort .Site.Menus.main ".Weight" }}
+        <li class="nav__item {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}nav__item--active{{ end }}">
+          <a class="nav__link" href="{{ .URL }}">
+            {{ .Pre }}
+            <span>{{ .Name }}</span>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </nav>
 </header>

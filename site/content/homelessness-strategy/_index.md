@@ -1,5 +1,9 @@
 ---
 title: Manchester Homelessness Strategy
+menu:
+  main:
+    name: Our Homelessness Strategy
+    weight: 100
 hero:
   image: /assets/images/streetwise-opera.jpg
 about:
@@ -18,7 +22,7 @@ about:
     voluntary sector, and businesses.
   heading: Change Through Co-Production
 actionPlans:
-  body: To be added shortly.
+  body:
   heading: Action Plans
 strategyCta:
   title: READ THE FULL STRATEGY HERE

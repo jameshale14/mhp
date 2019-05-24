@@ -1,5 +1,8 @@
 ---
 title: Homelessness in Manchester
+menu: main
+weight: 50
+
 hero:
   image: /assets/images/streetwise-opera.jpg
 about:
