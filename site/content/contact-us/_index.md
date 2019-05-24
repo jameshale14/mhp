@@ -1,5 +1,7 @@
 ---
 title: Get in Touch
+menu: main
+weight: 10000
 layout: single
 content:
   body: >-
