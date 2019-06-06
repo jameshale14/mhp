@@ -1,3 +1,19 @@
+.main {
+  position: relative;
+
+  &--nav-active {
+    &::before {
+      position: absolute;
+      content: '';
+      width: 100%;
+      top: 86px;
+      bottom: 0px;
+      background: rgba(0, 0, 0, 0.7);
+      z-index: 9000;
+    }
+  }
+}
+
 .block {
   position: relative;
   @include cf();
@@ -159,7 +175,7 @@
   }
 
   &--bg-missing-image {
-    padding-top: 20px;
+    padding-top: 0px;
 
     @include mq($from: desktop) {
       padding-top: 0px;
@@ -244,6 +260,11 @@
     padding: $padding * 2;
     padding-bottom: 0;
     @include cf();
+
+    .article & {
+      padding-left: 15%;
+      padding-right: 15%;
+    }
   }
 
   &--drop-shadow {
@@ -251,6 +272,13 @@
       box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.25);
       padding-bottom: $padding * 2;
       margin-bottom: $padding * 5;
+    }
+  }
+
+  &--two-columns {
+    @include mq($from: desktop) {
+      display: flex;
+      flex-direction: row;
     }
   }
 
@@ -283,5 +311,25 @@
     float: left;
     padding: $padding;
     margin: 0 $padding * 2 0 0;
+  }
+}
+
+.column {
+  padding-bottom: 10px;
+  @include mq($from: desktop) {
+    padding-left: 10px;
+    padding-right: 10px;
+
+    &:first-child {
+      padding-left: 0px;
+    }
+
+    &:last-child {
+      padding-right: 0px;
+    }
+
+    .block__body--two-columns & {
+      width: 50%;
+    }
   }
 }

@@ -26,17 +26,18 @@
         </div>
       </div>
     </section>
-    {{ if (ne .Params.actionPlans.body nil) }}
+
+    {{ if (ne .Params.howToHelp.body nil) }}
     <section class="block">
       <div class="container">
         <header class="block__header">
-          <h1 class="block__header-title">{{ .Params.actionPlans.heading }}</h1>
-          {{ if (ne .Params.actionPlans.subHeading nil) }}
-          <p class="block__header-sub-title">{{ .Params.actionPlans.subHeading }}</p>
+          <h1 class="block__header-title">{{ .Params.howToHelp.heading }}</h1>
+          {{ if (ne .Params.howToHelp.subHeading nil) }}
+          <p class="block__header-sub-title">{{ .Params.howToHelp.subHeading }}</p>
           {{ end }}
         </header>
         <div class="block__body block__body--drop-shadow">
-          {{ $bodyMarkdown := .Params.actionPlans.body | markdownify }}
+          {{ $bodyMarkdown := .Params.howToHelp.body | markdownify }}
           {{ if not ( strings.Contains $bodyMarkdown "<p>" ) }}<p>{{ $bodyMarkdown }}</p>
           {{ else }}{{ $bodyMarkdown }}{{ end }}
         </div>
@@ -44,15 +45,6 @@
     </section>
     {{ end }}
 
-    {{ if ((ne .Params.strategyCta.title nil) | and (ne .Params.strategyCta.url nil)) }}
-    <section class="block block-last">
-      <div class="container">
-        <div class="btns">
-          <a class="btn btn--mhp-green" href="{{ .Params.strategyCta.url }}">{{ .Params.strategyCta.title }}</a>
-        </div>
-      </div>
-    </section>
-    {{ end }}
   </main>
   {{ $footer := .Site.GetPage "_footer.md" }}
   {{ partial "footer.html" (dict "footer" $footer) }}

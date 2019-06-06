@@ -1,0 +1,36 @@
+.site-header {
+  position: relative;
+  padding: 0;
+  background: black;
+  color: white;
+  border-bottom: 2px solid $mhp-yellow;
+
+  @include cf();
+}
+
+.site-header__masthead {
+  margin: 0;
+  padding: 10px 0;
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+
+.site-header__masthead-title {
+  display: none;
+
+  @include mq($from: desktop) {
+    display: block;
+  }
+}
+
+.site-header__logo {
+  float: left;
+  width: 56px;
+  height: 64px;
+  margin: 0 10px 10px;
+
+  @include mq($from: desktop) {
+    margin: 12px 15px 0 0;
+  }
+}

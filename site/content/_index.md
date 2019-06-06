@@ -13,7 +13,7 @@ whatIs:
     The Charter was launched in May 2016. It unites many people with personal
     experience of homelessness with organisations from different sectors, to
     co-produce solutions together. Over 100 people who have personal insight
-    into homelessness have been involved in the Partnership, many of whom
+    into homelessness have been involved in the Partnership so far, many of whom
     co-wrote the Charter.
 
 
@@ -24,10 +24,10 @@ whatIs:
 whosInvolved:
   body: >-
     **Charity & voluntary:** Albert Kennedy Trust, Barnabus, Big Change MCR,
-    Boaz Trust, Booth Centre, Coffee4Craig, Cornerstones, Centrepoint North,
-    DePaul, Greater Together Manchester, Inspiring Change Manchester, Justlife,
-    Lifeshare, MASH, Mustard Tree, On the Out, Reach Out to the Community,
-    Shelter, The Men's Room...
+    Boaz Trust, Booth Centre, Business in the Community (BITC), Coffee4Craig,
+    Cornerstones, Centrepoint North, DePaul, Greater Together Manchester,
+    Inspiring Change Manchester, Justlife, Lifeshare, MASH, Mustard Tree, On the
+    Out, Reach Out to the Community, Shelter, SPIN, The Men's Room...
 
 
     **Statutory:** Department for Work and Pensions, Greater Manchester Combined
@@ -36,10 +36,11 @@ whosInvolved:
     Village Medical Practice, Universities... 
 
 
-    **Business:** Allied London, Bruntwood, CityCo., The Cooperative, Enterprise
-    Holdings, Federation House, Laing O'Rourke, Lendlease, Lloyds Banking Group,
-    McLaren Construction, Minute Works, Network Rail, Octopus Ink,
-    pro-manchester, Space Zero, Uber, Vallance Dental Centre...
+    **Business:** Allied London, Barclays, Bruntwood, Career Builder, CityCo.,
+    The Cooperative, Enterprise Holdings, Federation House, Laing O'Rourke,
+    Lendlease, Lloyds Banking Group, McLaren Construction, Minute Works, Network
+    Rail, Octopus Ink, pro-manchester, Space Zero, Specsavers, Tuner&Townsend,
+    Uber, Vallance Dental Centre...
 
 
     And many more local organisations and dedicated individuals!
@@ -100,20 +101,24 @@ charter:
     Pledges can be individual or organisational, big or small - we like the ones
     that happen!
   heading: 'Manchester Homelessness Charter:'
-whatElse:
-  body: >-
+partnership:
+  buttonText: Manchester Homelessness Strategy
+  buttonUrl: /homelessness-strategy
+  heading: Manchester Strategy and Homelessness Context
+  resources: >-
     As a Partnership, we have developed the following materials which may be of
     use to you:
 
 
-    * [Co-produced City Strategy
-    (2018-2023)](https://drive.google.com/file/d/1N2gW8c1ED3LYAKEkwkKlXzOXIWeAi9D1/view?usp=sharing)
+    * [Homelessness in Context](/homelessness-in-manchester/)
+
+    * [Co-produced City Strategy (2018-2023)](/homelessness-strategy/)
 
     * [Language and Terminology
     Guideline](https://drive.google.com/file/d/1TQstUhsjFTopKJ4-2RZLYT8YY4py9EUj/view?usp=sharing)
 
-    * ['Storefront engagement' Guide for
-    Businesses](https://drive.google.com/file/d/0B6iUM9jFzvw5ckZkZkNCcGtrajBDZmhOeXlwQ01QMFdpcXRj/view)
+    * ['Storefront engagement' - Guide for
+    Businesses](https://drive.google.com/file/d/1313AQfdIfErrS4yw19ovjINoFUl9otG6/view)
 
     * [Learnings from the MHP
     report](https://drive.google.com/file/d/1ULsfTOathk8onEKa84lfKZn-2yQm_MCF/view?usp=sharing)
@@ -122,9 +127,12 @@ whatElse:
     Groups](https://drive.google.com/file/d/1eFjixAg4bSPa-Fq5BJ0u8cFg2I7Uoidl/view?usp=sharing) 
 
     * [Flyer for How Businesses can get
-    Involved](https://drive.google.com/file/d/1Vo1PANC191X08k0WARgbfnuFiYPQkeCa/view)
-
-
+    involved](https://drive.google.com/file/d/1Vo1PANC191X08k0WARgbfnuFiYPQkeCa/view)
+  strategy: >-
+    Manchester is coming together to tackle all forms of homelessness. Learn
+    more about our strategy here:
+whatElse:
+  body: >-
     There is so much fantastic work happening in our city to try and end
     homelessness, and to support the people who are currently experiencing
     homelessness. You can find out more about support services in Manchester and
